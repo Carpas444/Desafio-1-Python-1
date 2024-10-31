@@ -1,7 +1,4 @@
-# Desafio-1-Python-1
-
-
-Ideia:
+# Enunciado:
 
 Criar uma interface para um barista de um café. Nesta interface, o barista deve ser capaz de selecionar o produto desejado pelo cliente, resultando, num preço final.
 
